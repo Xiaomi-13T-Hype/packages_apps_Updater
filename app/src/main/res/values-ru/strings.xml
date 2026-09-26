@@ -116,4 +116,29 @@
     <string name="local_update_import_failure">Не удалось импортировать локальное обновление</string>
     <string name="local_update_import_install">Установить</string>
     <string name="local_update_name">Локальное обновление</string>
+
+    <!-- Missing translations -->
+    <string name="action_open_guide">Открыть руководство</string>
+    <string name="blocked_update_dialog_title_downgrade">Понижение версии заблокировано</string>
+    <string name="blocked_update_dialog_message_downgrade">Это обновление старее текущей версии системы и не может быть установлено.</string>
+    <string name="cancel_installation_dialog_title">Отмена установки</string>
+    <string name="cancel_installation_dialog_message">Отменить установку обновления системы?</string>
+    <string name="confirm_cancel_dialog_title">Отмена загрузки</string>
+    <string name="confirm_cancel_dialog_message">Отменить загрузку и удалить файл?</string>
+    <string name="list_downgrade_blocked">Эта сборка старее установленной системы и не может быть применена.</string>
+    <string name="list_full_install">Полная установка: можно безопасно установить поверх любой предыдущей сборки</string>
+    <string name="list_major_android_upgrade">Крупное обновление Android</string>
+    <string name="list_major_upgrade_recovery_install">Крупные обновления версии <xliff:g id="brand_name" example="LineageOS">%1$s</xliff:g> должны быть установлены вручную. Ознакомьтесь с инструкцией для вашего устройства.</string>
+    <string name="list_security_update">Обновление безопасности: <xliff:g id="date" example="Jan 2026">%1$s</xliff:g></string>
+    <string name="local_update_import">Локальное обновление</string>
+    <string name="local_update_import_summary">Выберите файл обновления для установки</string>
+    <string name="local_update_import_success_title">Обновление импортировано</string>
+    <string name="local_update_import_success_message">Дата сборки: <xliff:g id="build_date" example="Apr 27">%1$s</xliff:g>\n\nНажмите на импортированное обновление для просмотра действий.</string>
+    <string name="see_less">Свернуть</string>
+    <string name="see_more">Еще %1$d</string>
+    <string name="updater_build_unofficial">Неофициальная</string>
+    <string name="updater_link_donate">Поддержать</string>
+    <string name="updater_link_forum">Форум</string>
+    <string name="updater_link_telegram">Telegram</string>
+    <string name="updater_maintainer_by">от <xliff:g id="maintainer" example="Ghosuto">%1$s</xliff:g></string>
 </resources>
